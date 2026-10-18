@@ -6,7 +6,7 @@ I build production apps across **web, mobile, and desktop**, mostly in TypeScrip
 
 🔭 Currently doing freelance work and **open to full-time roles**
 🌱 Learning LangGraph / LangChain and building with LLM agents
-📫 Reach me: [your-email@example.com](mailto:santosh.work965@gmail.com) · [LinkedIn](https://linkedin.com/in/santoshverma965)
+📫 Reach me: [santosh.work965@gmail.com](mailto:santosh.work965@gmail.com) · [LinkedIn](https://linkedin.com/in/santoshverma965)
 
 ---
 
